@@ -2,5 +2,3 @@
 
 namespace ChatEmote;
 
-
-?>
