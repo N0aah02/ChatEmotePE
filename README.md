@@ -10,21 +10,24 @@ A ChatEmote for PocketMine-MP!
 [![](https://img.shields.io/badge/ChatEmotesPE-The%20Future%20of%20Chat%20Emotes-blue)](https://poggit.pmmp.io/p/ChatEmotePE)
 
 ## Commands
-<br>
+<br><br>
 /chatemotes :: Information about the Plugin etc.
 
-<br>
+<br><br>
 /sad :: You are Sad? Type this Command.
 
-<br>
+<br><br>
 /happy :: You are Happy? Type this Command.
 
-<br>
+<br><br>
 /angry :: You are Angry? Type this Command!.
 
-<br>
+<br><br>
 /useless :: You are Hungry? Type this Command ;)
 <br>
+
+## Discord
+you can join my Discord, when you click [here](https://dsc.gg/PMCoding "Click on this Text")
 
 ## Credtis
 [www.iconarchive.com](https://www.iconarchive.com/ "my Logo Use")
