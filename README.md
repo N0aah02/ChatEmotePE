@@ -24,7 +24,10 @@ A ChatEmote for PocketMine-MP!
 /angry :: You are Angry? Type this Command!.
 
 <br><br>
-/useless :: You are Hungry? Type this Command ;)
+/hungry :: You are Hungry? Type this Command ;)
+
+<br><br>
+/normal :: You are Emotionless? Type this Command.
 <br>
 
 ## Discord
