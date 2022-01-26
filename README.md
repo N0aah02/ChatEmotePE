@@ -2,6 +2,7 @@
 A ChatEmote for PocketMine-MP!
 [![](https://poggit.pmmp.io/shield.state/ChatEmotePE)](https://poggit.pmmp.io/p/ChatEmotePE)
 
+[![](https://github.com/N0aah02/ChatEmotePE/blob/main/assets/happy.png?raw=true)](https://beispiel.de)
 
 
 ######  ChatEmotePE
