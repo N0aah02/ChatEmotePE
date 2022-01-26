@@ -5,5 +5,5 @@ branches:
 projects:
   ChatEmotePE:
     path: ""
-    icon: "assets/200.gif"
+    icon: "assets/happy.png"
 ...
